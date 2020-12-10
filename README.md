@@ -3,7 +3,7 @@
 
 1. Решаем задачу сегментации RFMс помощью [databricks](https://community.cloud.databricks.com/) и строим дашборд в Tableau Public
 
-[Папка](https://github.com/eugeneks/datalearn_sql_cases/tree/main/RFM)
+[Папка c afqkfvb](https://github.com/eugeneks/datalearn_sql_cases/tree/main/RFM)
 
 **Описание файлов:**
 - RFM_segmentation_pandas.ipynb - исходный пример с кодом на python и pandas
