@@ -3,7 +3,7 @@
 
 1. Решаем задачу сегментации RFMс помощью [databricks](https://community.cloud.databricks.com/) и строим дашборд в Tableau Public
 
-[Папка c afqkfvb](https://github.com/eugeneks/datalearn_sql_cases/tree/main/RFM)
+[Папка с файлами](https://github.com/eugeneks/datalearn_sql_cases/tree/main/RFM)
 
 **Описание файлов:**
 - RFM_segmentation_pandas.ipynb - исходный пример с кодом на python и pandas
@@ -18,7 +18,7 @@
 
 - online-retail.csv - исходный файл с данными.
 
-- sql_only.sql - только код SQL, который запускался через SPARK  SQL. Соотвествует стандарту [HIVE SQL}(https://cwiki.apache.org/confluence/display/Hive/LanguageManual)
+- sql_only.sql - только код SQL, который запускался через SPARK  SQL. Соотвествует стандарту [HIVE SQL](https://cwiki.apache.org/confluence/display/Hive/LanguageManual)
 
 
 
